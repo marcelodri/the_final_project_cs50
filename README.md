@@ -3,6 +3,9 @@
 #### Description:
 <h5>This is The Final proyect for the CS50 course.</h5>
 
+<p>Project contains MVC layout (Model, View, Controller)
+It was developed in PHP on the backend side to perform some small validations like "blank fields" or removing special characters (to add a bit of security). It is not necessary to register with an email as it does not use email validation. This project it is on trial basis.</p>
+
 <p>I made a Game Of Throne trivia with PHP language for the backend and a bit of
 JavaScript on the client side.
 I leave the project link in the description.
@@ -19,3 +22,4 @@ Class Conexion{
 	}
 }
 </pre></code>
+
